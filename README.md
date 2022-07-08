@@ -7,11 +7,17 @@
 - Material UI
 - Flip Animations
 - Firebase {Authentication, Firestore Database, Hosting}
+
 <br>
 <br>
 
-![alt text]([http://url/to/img.png](https://github.com/UsamaBinKashif/LinkedIn-Clone/blob/main/scrnli_7_8_2022_4-31-27%20PM.png))
-![alt text]([http://url/to/img.png](https://github.com/UsamaBinKashif/LinkedIn-Clone/blob/main/scrnli_7_8_2022_4-30-05%20PM.png))
+## [Live Link](https://linkdin-clone-89763.web.app/)
+
+<br>
+<br>
+
+<img src="https://github.com/UsamaBinKashif/LinkedIn-Clone/blob/main/scrnli_7_8_2022_4-31-27%20PM.png">
+<img src="https://github.com/UsamaBinKashif/LinkedIn-Clone/blob/main/scrnli_7_8_2022_4-30-05%20PM.png">
 
 <br>
 <br>
