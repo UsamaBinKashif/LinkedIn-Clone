@@ -1,0 +1,85 @@
+.feed {
+  flex: 0.5;
+  
+  margin: 1.25rem 1.25rem 0 1.25rem;
+}
+
+.feed__container {
+  padding: 0.625rem;
+  margin-bottom: 0.625rem;
+  border-radius: 0.625rem;
+  background-color: white;
+  box-shadow:0 0.25rem 1rem lightgray;
+  
+  
+}
+
+.feed__input {
+  display: flex;
+  padding: 0.625rem;
+  border-radius: 1.875rem;
+  border: 1px solid lightgray;
+  color: gray;
+}
+.feed__input > form {
+  display: flex;
+  width: 100%;
+}
+.feed__input > form > input {
+  border: none;
+  margin-left: 0.625rem;
+  outline-width: 0;
+  flex: 1;
+  font-weight: 600;
+}
+.feed__input > form > button {
+  display: none;
+}
+
+/* Input Options */
+
+.feed__container--options {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: white;
+  color: gray;
+  padding-top: 0.625rem;
+  font-size: 0.625rem;
+  font-weight: 600;
+  
+}
+
+.input__options {
+  display: flex;
+  align-items: center;
+  padding: 0.325rem;
+  border-radius: 0.225rem;
+}
+.input__options:hover {
+  background-color: lightgray;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+  color: black;
+}
+
+.input__options--icon {
+  padding-right: 0.225rem;
+}
+.feed__top{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 0.625rem;
+  text-align: center;
+  background-color: white;
+  border-bottom: 1px solid lightgray;
+  border-top-left-radius: 0.625rem;
+  border-top-right-radius: 0.625rem;
+}
+@media (max-width: 700px) {
+  .feed{
+    flex: 1;
+  }
+
+  
+}

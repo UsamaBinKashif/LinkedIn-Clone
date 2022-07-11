@@ -1,0 +1,36 @@
+.post {
+  padding: 0.9375rem;
+  margin-bottom: 0.625rem;
+  border-radius: 0.625rem;
+  background-color: white;
+}
+
+.post__header {
+  display: flex;
+  margin-bottom: 0.625rem;
+}
+.post__info {
+  margin-left: 0.625rem;
+}
+
+.post__info > p {
+font-size: 0.75rem;
+color: gray;
+}
+.post__info > h3 {
+font-size: 0.9375rem;
+
+}
+.post__body{
+    overflow-wrap: break-word;
+}
+
+.post__buttons{
+    display: flex;
+    justify-content: space-around;
+    font-size: 0.75rem;
+    margin-top: 0.625rem;
+}
+.input__options--icon{
+font-size: 1.25rem;
+}
